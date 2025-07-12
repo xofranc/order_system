@@ -1,0 +1,148 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  {% include "includes/head.html" %}
+  {% block extrastyle %}{% endblock extrastyle %}
+</head>
+
+<body>
+  <!-- Navbar animada -->
+  <div class="container position-sticky z-index-sticky top-0">
+    <div class="row">
+      <div class="col-12">
+        <nav class="navbar navbar-expand-lg blur blur-rounded top-0 z-index-3 shadow position-absolute my-3 py-2 start-0 end-0 mx-4">
+          <div class="container-fluid pe-0">
+            {% comment %} <a class="navbar-brand font-weight-bolder ms-lg-0 ms-3 " href="{% url "index" %}"> {% endcomment %}
+              Order System
+            </a>
+            <button class="navbar-toggler shadow-none ms-2" type="button" data-bs-toggle="collapse" data-bs-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon mt-2">
+                <span class="navbar-toggler-bar bar1"></span>
+                <span class="navbar-toggler-bar bar2"></span>
+                <span class="navbar-toggler-bar bar3"></span>
+              </span>
+            </button>
+            <div class="collapse navbar-collapse" id="navigation">
+              <ul class="navbar-nav mx-auto ms-xl-auto me-xl-7">
+                <li class="nav-item">
+                  {% comment %} <a class="nav-link d-flex align-items-center me-2 active" aria-current="page" href="{% url "index" %}"> {% endcomment %}
+                    <i class="fa fa-chart-pie opacity-6 text-dark me-1"></i>
+                    Dashboard
+                  </a>
+                </li>
+                <li class="nav-item">
+                  {% comment %} <a class="nav-link me-2" href="{% url "profile" %}"> {% endcomment %}
+                    <i class="fa fa-user opacity-6 text-dark me-1"></i>
+                    Profile
+                  </a>
+                </li>
+                <li class="nav-item">
+                  {% comment %} <a class="nav-link me-2" href="{% url "register" %}"> {% endcomment %}
+                    <i class="fas fa-user-circle opacity-6 text-dark me-1"></i>
+                    Sign Up
+                  </a>
+                </li>
+                <li class="nav-item">
+                  {% comment %} <a class="nav-link me-2" href="{% url "login" %}"> {% endcomment %}
+                    <i class="fas fa-key opacity-6 text-dark me-1"></i>
+                    Sign In
+                  </a>
+                </li>
+              </ul>
+              <ul class="navbar-nav d-lg-block d-none">
+              </ul>
+            </div>
+          </div>
+        </nav>
+      </div>
+    </div>
+  </div>
+
+  <!-- Contenido principal animado -->
+  <main>
+    {% block content %}{% endblock content %}
+  </main>
+
+  <!-- Footer animado -->
+  <footer class="footer py-5">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 mb-4 mx-auto text-center">
+          <a href="javascript:;" target="_blank" class="text-secondary me-xl-5 me-3 mb-sm-0 mb-2">Company</a>
+          <a href="javascript:;" target="_blank" class="text-secondary me-xl-5 me-3 mb-sm-0 mb-2">About Us</a>
+          <a href="javascript:;" target="_blank" class="text-secondary me-xl-5 me-3 mb-sm-0 mb-2">Team</a>
+          <a href="javascript:;" target="_blank" class="text-secondary me-xl-5 me-3 mb-sm-0 mb-2">Products</a>
+          <a href="javascript:;" target="_blank" class="text-secondary me-xl-5 me-3 mb-sm-0 mb-2">Blog</a>
+          <a href="javascript:;" target="_blank" class="text-secondary me-xl-5 me-3 mb-sm-0 mb-2">Pricing</a>
+        </div>
+        <div class="col-lg-8 mx-auto text-center mb-4 mt-2">
+          <a href="javascript:;" class="text-secondary me-xl-4 me-4"><span class="text-lg fab fa-dribbble"></span></a>
+          <a href="javascript:;" class="text-secondary me-xl-4 me-4"><span class="text-lg fab fa-twitter"></span></a>
+          <a href="javascript:;" class="text-secondary me-xl-4 me-4"><span class="text-lg fab fa-instagram"></span></a>
+          <a href="javascript:;" class="text-secondary me-xl-4 me-4"><span class="text-lg fab fa-pinterest"></span></a>
+          <a href="javascript:;" class="text-secondary me-xl-4 me-4"><span class="text-lg fab fa-github"></span></a>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-8 mx-auto text-center mt-1">
+          <p class="mb-0 text-secondary">&copy; Creative-Tim coded by <a href="https://app-generator.dev" class="font-weight-bold">App Generator</a>.</p>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  {% comment %} {% include "includes/scripts.html" %} {% endcomment %}
+
+  <!-- GSAP CDN -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>
+
+  <!-- Animaciones GSAP -->
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      // Navbar fade from top
+      gsap.from(".navbar", {
+        y: -100,
+        opacity: 0,
+        duration: 1.2,
+        ease: "power4.out"
+      });
+
+      // Main content fade in
+      gsap.from("main", {
+        opacity: 0,
+        y: 50,
+        duration: 1,
+        delay: 0.5
+      });
+
+      // Footer animation on scroll
+      gsap.from("footer", {
+        scrollTrigger: {
+          trigger: "footer",
+          start: "top bottom",
+          toggleActions: "play none none reverse"
+        },
+        opacity: 0,
+        y: 100,
+        duration: 1
+      });
+
+      // Stagger nav items
+      gsap.from(".navbar-nav .nav-item", {
+        opacity: 0,
+        y: -20,
+        duration: 0.8,
+        stagger: 0.15,
+        delay: 0.5
+      });
+    });
+  </script>
+
+  {% block extra_js %}{% endblock extra_js %}
+
+</body>
+
+</html>
