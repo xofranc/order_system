@@ -421,3 +421,1837 @@ Not Found: /favicon.ico
 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
 "GET /admin/inventario/insumos/ HTTP/1.1" 200 11575
 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/santiagovasquezfranco/Desktop/order_system/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/apps/productos/apps.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/inventario/insumos/ HTTP/1.1" 200 11572
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumos/ HTTP/1.1" 200 11572
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/santiagovasquezfranco/Desktop/order_system/apps/productos/admin.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/apps/productos/admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/inventario/insumos/ HTTP/1.1" 200 11575
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+"GET /static/admin/css/base.css HTTP/1.1" 200 22120
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2360
+Watching for file changes with StatReloader
+"GET /admin/inventario/insumos/ HTTP/1.1" 200 11575
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumos/ HTTP/1.1" 200 11575
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/movimientoinsumo/ HTTP/1.1" 200 12116
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/accounts/user/ HTTP/1.1" 200 18308
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/img/search.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-no.svg HTTP/1.1" 304 0
+"GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+"GET /admin/auth/group/ HTTP/1.1" 200 10552
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+Watching for file changes with StatReloader
+"GET /admin/auth/group/ HTTP/1.1" 200 10552
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/css/base.css HTTP/1.1" 200 22120
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/img/search.svg HTTP/1.1" 200 458
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2360
+"GET /admin/auth/group/ HTTP/1.1" 200 10552
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/css/base.css HTTP/1.1" 200 22120
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+"GET /static/admin/img/search.svg HTTP/1.1" 200 458
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2360
+"GET /admin/auth/group/ HTTP/1.1" 200 10552
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+"GET /static/admin/css/base.css HTTP/1.1" 200 22120
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/img/search.svg HTTP/1.1" 200 458
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2360
+"GET /admin/auth/group/ HTTP/1.1" 200 10552
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+"GET /static/admin/css/base.css HTTP/1.1" 200 22120
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/img/search.svg HTTP/1.1" 200 458
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2360
+"GET /admin/inventario/movimientoinsumo/ HTTP/1.1" 200 12116
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumos/ HTTP/1.1" 200 11575
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/auth/group/ HTTP/1.1" 200 10552
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumos/ HTTP/1.1" 200 11575
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumos/add/ HTTP/1.1" 200 12908
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/movimientoinsumo/ HTTP/1.1" 200 12116
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/movimientoinsumo/add/ HTTP/1.1" 200 17188
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/santiagovasquezfranco/Desktop/order_system/apps/productos/models.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/inventario/movimientoinsumo/add/ HTTP/1.1" 200 17188
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+"GET /static/admin/css/base.css HTTP/1.1" 200 22120
+"GET /static/admin/css/forms.css HTTP/1.1" 200 8525
+"GET /static/admin/js/calendar.js HTTP/1.1" 200 9141
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+"GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/css/widgets.css HTTP/1.1" 200 11991
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+"GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+"GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+"GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2360
+"GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+"GET /admin/inventario/movimientoinsumo/add/ HTTP/1.1" 200 17188
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+"GET /static/admin/css/forms.css HTTP/1.1" 200 8525
+"GET /static/admin/css/base.css HTTP/1.1" 200 22120
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/js/calendar.js HTTP/1.1" 200 9141
+"GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/css/widgets.css HTTP/1.1" 200 11991
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+"GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+"GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+"GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+"GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2360
+"GET /admin/inventario/movimientoinsumo/add/ HTTP/1.1" 200 17188
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+"GET /static/admin/css/base.css HTTP/1.1" 200 22120
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/css/forms.css HTTP/1.1" 200 8525
+"GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/js/calendar.js HTTP/1.1" 200 9141
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+"GET /static/admin/css/widgets.css HTTP/1.1" 200 11991
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+"GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+"GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+Not Found: /favicon.ico
+"GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+"GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+"GET /favicon.ico HTTP/1.1" 404 2360
+"GET /admin/inventario/movimientoinsumo/add/ HTTP/1.1" 200 17188
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/css/forms.css HTTP/1.1" 200 8525
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+"GET /static/admin/css/base.css HTTP/1.1" 200 22120
+"GET /static/admin/js/calendar.js HTTP/1.1" 200 9141
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+"GET /static/admin/css/widgets.css HTTP/1.1" 200 11991
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+"GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+"GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2360
+"GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+"GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+"GET /admin/inventario/movimientoinsumo/add/ HTTP/1.1" 200 17188
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+"GET /static/admin/css/forms.css HTTP/1.1" 200 8525
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/css/base.css HTTP/1.1" 200 22120
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/js/calendar.js HTTP/1.1" 200 9141
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+"GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+"GET /static/admin/css/widgets.css HTTP/1.1" 200 11991
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+"GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+"GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+Not Found: /favicon.ico
+"GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+"GET /favicon.ico HTTP/1.1" 404 2360
+"GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+/Users/santiagovasquezfranco/Desktop/order_system/apps/productos/models.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/inventario/movimientoinsumo/add/ HTTP/1.1" 200 17188
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/movimientoinsumo/add/ HTTP/1.1" 200 17188
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/movimientoinsumo/add/ HTTP/1.1" 200 17188
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/movimientoinsumo/add/ HTTP/1.1" 200 17188
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/movimientoinsumo/add/ HTTP/1.1" 200 17188
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/movimientoinsumo/add/ HTTP/1.1" 200 17188
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/movimientoinsumo/add/ HTTP/1.1" 200 17188
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/santiagovasquezfranco/Desktop/order_system/apps/productos/admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/inventario/movimientoinsumo/add/ HTTP/1.1" 200 18587
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+"GET /static/admin/css/base.css HTTP/1.1" 200 22120
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+"GET /static/admin/css/forms.css HTTP/1.1" 200 8525
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/js/calendar.js HTTP/1.1" 200 9141
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/css/widgets.css HTTP/1.1" 200 11991
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+"GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+"GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+"GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+"GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2360
+"GET /admin/productos/productoinsumo/ HTTP/1.1" 200 11686
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/ HTTP/1.1" 200 11646
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/add/ HTTP/1.1" 200 14183
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productoinsumo/ HTTP/1.1" 200 11686
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productoinsumo/add/ HTTP/1.1" 200 15901
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/ HTTP/1.1" 200 11646
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/add/ HTTP/1.1" 200 14183
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/productos/productos/add/ HTTP/1.1" 302 0
+"GET /admin/productos/productos/ HTTP/1.1" 200 13191
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productoinsumo/ HTTP/1.1" 200 11686
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productoinsumo/add/ HTTP/1.1" 200 15955
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/productos/productoinsumo/add/ HTTP/1.1" 302 0
+"GET /admin/productos/productoinsumo/ HTTP/1.1" 200 13355
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productoinsumo/1/change/ HTTP/1.1" 200 16328
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/movimientoinsumo/ HTTP/1.1" 200 13515
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumos/ HTTP/1.1" 200 12974
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/ HTTP/1.1" 200 12967
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/santiagovasquezfranco/Desktop/order_system/apps/productos/models.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/productos/productos/1/change/ HTTP/1.1" 200 14494
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productoinsumo/ HTTP/1.1" 200 13090
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productoinsumo/1/change/ HTTP/1.1" 200 16328
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/productos/productoinsumo/1/change/ HTTP/1.1" 302 0
+"GET /admin/productos/productoinsumo/ HTTP/1.1" 200 13357
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumos/ HTTP/1.1" 200 12974
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/movimientoinsumo/ HTTP/1.1" 200 13515
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumos/ HTTP/1.1" 200 12974
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/santiagovasquezfranco/Desktop/order_system/apps/inventario/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/apps/inventario/admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/authtoken/tokenproxy/ HTTP/1.1" 200 13098
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2360
+/Users/santiagovasquezfranco/Desktop/order_system/apps/inventario/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/apps/inventario/admin.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/apps/inventario/admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/authtoken/tokenproxy/ HTTP/1.1" 200 13093
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+"GET /static/admin/css/base.css HTTP/1.1" 200 22120
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/img/search.svg HTTP/1.1" 200 458
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+"GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2360
+Internal Server Error: /admin/inventario/actualizacioninventario/
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/sqlite3/base.py", line 360, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: inventario_actualizacioninventario
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/options.py", line 719, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/sites.py", line 246, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/options.py", line 2024, in changelist_view
+    cl = self.get_changelist_instance(request)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/options.py", line 867, in get_changelist_instance
+    return ChangeList(
+           ^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/views/main.py", line 146, in __init__
+    self.get_results(request)
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/views/main.py", line 313, in get_results
+    result_count = paginator.count
+                   ^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/core/paginator.py", line 110, in count
+    return c()
+           ^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/models/query.py", line 604, in count
+    return self.query.get_count(using=self.db)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/models/sql/query.py", line 644, in get_count
+    return obj.get_aggregation(using, {"__count": Count("*")})["__count"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/models/sql/query.py", line 626, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/models/sql/compiler.py", line 1623, in execute_sql
+    cursor.execute(sql, params)
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/sqlite3/base.py", line 360, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: inventario_actualizacioninventario
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 500 192192
+"GET /admin/authtoken/tokenproxy/ HTTP/1.1" 200 13093
+Internal Server Error: /admin/inventario/actualizacioninventario/
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/sqlite3/base.py", line 360, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: inventario_actualizacioninventario
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/options.py", line 719, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/sites.py", line 246, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/options.py", line 2024, in changelist_view
+    cl = self.get_changelist_instance(request)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/options.py", line 867, in get_changelist_instance
+    return ChangeList(
+           ^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/views/main.py", line 146, in __init__
+    self.get_results(request)
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/views/main.py", line 313, in get_results
+    result_count = paginator.count
+                   ^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/core/paginator.py", line 110, in count
+    return c()
+           ^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/models/query.py", line 604, in count
+    return self.query.get_count(using=self.db)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/models/sql/query.py", line 644, in get_count
+    return obj.get_aggregation(using, {"__count": Count("*")})["__count"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/models/sql/query.py", line 626, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/models/sql/compiler.py", line 1623, in execute_sql
+    cursor.execute(sql, params)
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/sqlite3/base.py", line 360, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: inventario_actualizacioninventario
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 500 192192
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 13634
+"GET /static/admin/css/base.css HTTP/1.1" 200 22120
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2360
+/Users/santiagovasquezfranco/Desktop/order_system/apps/inventario/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/apps/inventario/models.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/productos/productoinsumo/ HTTP/1.1" 200 13126
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/ HTTP/1.1" 200 13003
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/1/change/ HTTP/1.1" 200 14530
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productoinsumo/ HTTP/1.1" 200 13126
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productoinsumo/add/ HTTP/1.1" 200 15984
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/productos/productoinsumo/add/ HTTP/1.1" 302 0
+"GET /admin/productos/productoinsumo/ HTTP/1.1" 200 13764
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 13628
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 13000
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/1/change/ HTTP/1.1" 200 14670
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productoinsumo/ HTTP/1.1" 200 13499
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/productos/productoinsumo/ HTTP/1.1" 200 11851
+"GET /static/admin/js/cancel.js HTTP/1.1" 200 884
+"POST /admin/productos/productoinsumo/ HTTP/1.1" 302 0
+"GET /admin/productos/productoinsumo/ HTTP/1.1" 200 13271
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/santiagovasquezfranco/Desktop/order_system/apps/productos/models.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/productos/productos/ HTTP/1.1" 200 13003
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/1/change/ HTTP/1.1" 200 14530
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productoinsumo/ HTTP/1.1" 200 13126
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/ HTTP/1.1" 200 13003
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/1/change/ HTTP/1.1" 200 14530
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productoinsumo/ HTTP/1.1" 200 13126
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productoinsumo/1/change/ HTTP/1.1" 200 16357
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/productos/productoinsumo/1/change/ HTTP/1.1" 302 0
+"GET /admin/productos/productoinsumo/ HTTP/1.1" 200 13393
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 13000
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/?o=1 HTTP/1.1" 200 13284
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/1/change/?_changelist_filters=o%3D1 HTTP/1.1" 200 14758
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/santiagovasquezfranco/Desktop/order_system/apps/productos/models.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/inventario/insumo/1/change/?_changelist_filters=o%3D1 HTTP/1.1" 200 14758
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/1/change/?_changelist_filters=o%3D1 HTTP/1.1" 200 14758
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productoinsumo/ HTTP/1.1" 200 13126
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productoinsumo/ HTTP/1.1" 200 13126
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/santiagovasquezfranco/Desktop/order_system/apps/inventario/admin.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/apps/inventario/admin.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/apps/inventario/admin.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/apps/inventario/admin.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/apps/productos/admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/productos/productoinsumo/ HTTP/1.1" 200 13811
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/ HTTP/1.1" 200 14395
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productoinsumo/ HTTP/1.1" 200 13811
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productoinsumo/1/change/ HTTP/1.1" 200 16357
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productoinsumo/ HTTP/1.1" 200 13811
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 13628
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 13000
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/santiagovasquezfranco/Desktop/order_system/apps/inventario/admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 13819
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+"GET /static/admin/css/base.css HTTP/1.1" 200 22120
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/img/search.svg HTTP/1.1" 200 458
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2360
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 16279
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/santiagovasquezfranco/Desktop/order_system/apps/productos/admin.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 16279
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+"GET /static/admin/css/base.css HTTP/1.1" 200 22120
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+"GET /static/admin/img/search.svg HTTP/1.1" 200 458
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2360
+"GET /admin/productos/productos/ HTTP/1.1" 200 14395
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productoinsumo/ HTTP/1.1" 200 13811
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productoinsumo/1/change/ HTTP/1.1" 200 16357
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/ HTTP/1.1" 200 14395
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/1/change/ HTTP/1.1" 200 14530
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productoinsumo/ HTTP/1.1" 200 13811
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 13819
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 16279
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 13819
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/1/change/ HTTP/1.1" 200 14670
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/santiagovasquezfranco/Desktop/order_system/apps/productos/admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/productos/productos/ HTTP/1.1" 200 13470
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/1/change/ HTTP/1.1" 200 14530
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/ HTTP/1.1" 200 13470
+"POST /admin/productos/productos/ HTTP/1.1" 302 0
+"GET /admin/productos/productos/ HTTP/1.1" 200 13667
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 16818
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/ HTTP/1.1" 200 13470
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productoinsumo/ HTTP/1.1" 200 13486
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productoinsumo/1/change/ HTTP/1.1" 200 16357
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 13819
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 16818
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/ HTTP/1.1" 200 13470
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/productos/productos/ HTTP/1.1" 302 0
+"GET /admin/productos/productos/ HTTP/1.1" 200 13667
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 13819
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productoinsumo/ HTTP/1.1" 200 13486
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productoinsumo/1/change/ HTTP/1.1" 200 16357
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/ HTTP/1.1" 200 13470
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/productos/productos/ HTTP/1.1" 302 0
+"GET /admin/productos/productos/ HTTP/1.1" 200 13667
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 13819
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 17896
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 17896
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 13819
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/1/change/ HTTP/1.1" 200 14670
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/inventario/insumo/1/change/ HTTP/1.1" 302 0
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 14051
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 17896
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 12840
+"POST /admin/inventario/actualizacioninventario/ HTTP/1.1" 302 0
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 13680
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/ HTTP/1.1" 200 13470
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/productos/productos/ HTTP/1.1" 302 0
+"GET /admin/productos/productos/ HTTP/1.1" 200 13667
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productoinsumo/ HTTP/1.1" 200 13485
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/ HTTP/1.1" 200 13470
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/1/change/ HTTP/1.1" 200 14530
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productoinsumo/ HTTP/1.1" 200 13485
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/ HTTP/1.1" 200 13470
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productoinsumo/ HTTP/1.1" 200 13485
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productoinsumo/add/ HTTP/1.1" 200 15983
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/ HTTP/1.1" 200 13470
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/1/change/ HTTP/1.1" 200 14530
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productoinsumo/ HTTP/1.1" 200 13485
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productoinsumo/add/ HTTP/1.1" 200 15983
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/ HTTP/1.1" 200 13470
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/1/change/ HTTP/1.1" 200 14530
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productoinsumo/ HTTP/1.1" 200 13485
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productoinsumo/1/change/ HTTP/1.1" 200 16356
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/add/?_to_field=id&_popup=1 HTTP/1.1" 200 6284
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/inventario/insumo/add/?_to_field=id&_popup=1 HTTP/1.1" 200 340
+"GET /static/admin/js/popup_response.js HTTP/1.1" 200 532
+"GET /admin/inventario/insumo/add/?_to_field=id&_popup=1 HTTP/1.1" 200 6284
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/2/change/?_to_field=id HTTP/1.1" 200 14663
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productoinsumo/ HTTP/1.1" 200 13485
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productoinsumo/1/change/ HTTP/1.1" 200 16407
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/productos/productoinsumo/1/change/ HTTP/1.1" 302 0
+"GET /admin/productos/productoinsumo/ HTTP/1.1" 200 13714
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/santiagovasquezfranco/Desktop/order_system/apps/productos/admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/productos/productoinsumo/1/change/ HTTP/1.1" 200 16365
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productoinsumo/ HTTP/1.1" 200 13458
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productoinsumo/add/ HTTP/1.1" 200 16034
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/add/?_to_field=id&_popup=1 HTTP/1.1" 200 6284
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/productos/productoinsumo/add/ HTTP/1.1" 200 16264
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/productos/productoinsumo/add/ HTTP/1.1" 302 0
+"GET /admin/productos/productoinsumo/ HTTP/1.1" 200 14177
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/santiagovasquezfranco/Desktop/order_system/apps/productos/admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/productos/productoinsumo/ HTTP/1.1" 200 13912
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+"GET /static/admin/css/base.css HTTP/1.1" 200 22120
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2360
+"GET /admin/productos/productoinsumo/1/change/ HTTP/1.1" 200 16365
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/2/change/?_to_field=id&_popup=1 HTTP/1.1" 200 6312
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 14188
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 15654
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/6/change/ HTTP/1.1" 200 19109
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/ HTTP/1.1" 200 13399
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/1/change/ HTTP/1.1" 200 30057
+"GET /static/admin/css/autocomplete.css HTTP/1.1" 200 9185
+"GET /static/admin/js/vendor/select2/i18n/en.js HTTP/1.1" 200 844
+"GET /static/admin/css/vendor/select2/select2.css HTTP/1.1" 200 17358
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/inlines.js HTTP/1.1" 200 15628
+"GET /static/admin/js/autocomplete.js HTTP/1.1" 200 1060
+"GET /static/admin/js/vendor/select2/select2.full.js HTTP/1.1" 200 173566
+"GET /static/admin/img/inline-delete.svg HTTP/1.1" 200 537
+"GET /admin/autocomplete/?app_label=productos&model_name=productoinsumo&field_name=insumo HTTP/1.1" 200 147
+"GET /admin/autocomplete/?app_label=productos&model_name=productoinsumo&field_name=insumo HTTP/1.1" 200 147
+"GET /admin/autocomplete/?app_label=productos&model_name=productoinsumo&field_name=insumo HTTP/1.1" 200 147
+"GET /admin/autocomplete/?app_label=productos&model_name=productoinsumo&field_name=insumo HTTP/1.1" 200 147
+"GET /admin/autocomplete/?app_label=productos&model_name=productoinsumo&field_name=insumo HTTP/1.1" 200 147
+"GET /admin/autocomplete/?app_label=productos&model_name=productoinsumo&field_name=insumo HTTP/1.1" 200 147
+"GET /admin/productos/productoinsumo/ HTTP/1.1" 200 13912
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 15654
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/6/change/ HTTP/1.1" 200 19109
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 15654
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 14188
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/1/change/ HTTP/1.1" 200 14666
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productoinsumo/ HTTP/1.1" 200 13912
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/ HTTP/1.1" 200 13399
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/add/ HTTP/1.1" 200 26911
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/add/?_to_field=id&_popup=1 HTTP/1.1" 200 6284
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/autocomplete/?app_label=productos&model_name=productoinsumo&field_name=insumo HTTP/1.1" 200 147
+"GET /admin/autocomplete/?app_label=productos&model_name=productoinsumo&field_name=insumo HTTP/1.1" 200 147
+"GET /admin/inventario/insumo/add/?_to_field=id&_popup=1 HTTP/1.1" 200 6284
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/inventario/insumo/add/?_to_field=id&_popup=1 HTTP/1.1" 200 357
+"POST /admin/productos/productos/add/ HTTP/1.1" 200 27491
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/autocomplete/?app_label=productos&model_name=productoinsumo&field_name=insumo HTTP/1.1" 200 209
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 14592
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productoinsumo/ HTTP/1.1" 200 13912
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productoinsumo/add/ HTTP/1.1" 200 16102
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/ HTTP/1.1" 200 13399
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/add/ HTTP/1.1" 200 26911
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/santiagovasquezfranco/Desktop/order_system/apps/inventario/models.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /accounts/login/ HTTP/1.1" 200 9000
+"GET /static/assets/img/favicon.png HTTP/1.1" 404 1880
+"GET /accounts/login/ HTTP/1.1" 200 9000
+"GET /admin/autocomplete/?app_label=productos&model_name=productoinsumo&field_name=insumo HTTP/1.1" 200 209
+"GET /admin/autocomplete/?app_label=productos&model_name=productoinsumo&field_name=insumo HTTP/1.1" 200 209
+"POST /admin/productos/productos/add/ HTTP/1.1" 200 27491
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/autocomplete/?app_label=productos&model_name=productoinsumo&field_name=insumo HTTP/1.1" 200 209
+"GET /admin/autocomplete/?app_label=productos&model_name=productoinsumo&field_name=insumo HTTP/1.1" 200 209
+"POST /admin/productos/productos/add/ HTTP/1.1" 200 27955
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/autocomplete/?app_label=productos&model_name=productoinsumo&field_name=insumo HTTP/1.1" 200 209
+"POST /admin/productos/productos/add/ HTTP/1.1" 302 0
+"GET /admin/productos/productos/ HTTP/1.1" 200 14027
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productoinsumo/ HTTP/1.1" 200 14778
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/productos/productoinsumo/ HTTP/1.1" 200 12043
+"POST /admin/productos/productoinsumo/ HTTP/1.1" 302 0
+"GET /admin/productos/productoinsumo/ HTTP/1.1" 200 14045
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productoinsumo/5/change/ HTTP/1.1" 200 16522
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 14830
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/3/change/ HTTP/1.1" 200 14682
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/inventario/insumo/3/change/ HTTP/1.1" 302 0
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 15095
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productoinsumo/ HTTP/1.1" 200 13916
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/ HTTP/1.1" 200 13809
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/1/change/ HTTP/1.1" 200 27272
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/autocomplete/?app_label=productos&model_name=productoinsumo&field_name=insumo HTTP/1.1" 200 219
+"GET /admin/autocomplete/?app_label=productos&model_name=productoinsumo&field_name=insumo HTTP/1.1" 200 219
+"GET /admin/autocomplete/?app_label=productos&model_name=productoinsumo&field_name=insumo HTTP/1.1" 200 219
+"POST /admin/productos/productos/1/change/ HTTP/1.1" 302 0
+"GET /admin/productos/productos/ HTTP/1.1" 200 14035
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productoinsumo/ HTTP/1.1" 200 14795
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/santiagovasquezfranco/Desktop/order_system/apps/inventario/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/apps/inventario/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/apps/inventario/models.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/productos/productoinsumo/ HTTP/1.1" 200 14795
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+"GET /static/admin/css/base.css HTTP/1.1" 200 22120
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2360
+/Users/santiagovasquezfranco/Desktop/order_system/apps/inventario/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/apps/inventario/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/apps/inventario/models.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/productos/productoinsumo/ HTTP/1.1" 200 14795
+"GET /static/admin/css/base.css HTTP/1.1" 200 22120
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2360
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 15648
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 14850
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 15648
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 14850
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/santiagovasquezfranco/Desktop/order_system/apps/inventario/models.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 14850
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+"GET /static/admin/css/base.css HTTP/1.1" 200 22120
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/img/search.svg HTTP/1.1" 200 458
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+"GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2360
+"GET /admin/productos/productos/ HTTP/1.1" 200 13809
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productoinsumo/ HTTP/1.1" 200 14795
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/santiagovasquezfranco/Desktop/order_system/apps/productos/admin.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /admin/productos/productoinsumo/
+"GET /admin/productos/productoinsumo/ HTTP/1.1" 404 6564
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2360
+"GET /admin/productos/productos/ HTTP/1.1" 200 13330
+"GET /admin/productos/productos/ HTTP/1.1" 200 13330
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/2/change/ HTTP/1.1" 200 29570
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/ HTTP/1.1" 200 13330
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/add/ HTTP/1.1" 200 26432
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 15169
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/santiagovasquezfranco/Desktop/order_system/apps/productos/admin.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/apps/productos/admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 15169
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+"GET /static/admin/css/base.css HTTP/1.1" 200 22120
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/img/search.svg HTTP/1.1" 200 458
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2360
+"GET /admin/productos/productos/ HTTP/1.1" 200 13416
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+Internal Server Error: /admin/productos/productos/
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/options.py", line 719, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/sites.py", line 246, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/options.py", line 2057, in changelist_view
+    response = self.response_action(
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/options.py", line 1686, in response_action
+    response = func(self, request, queryset)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/santiagovasquezfranco/Desktop/order_system/apps/productos/admin.py", line 23, in vender_producto
+    for relacion in producto.insumos_relacionados.all():
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Productos' object has no attribute 'insumos_relacionados'
+"POST /admin/productos/productos/ HTTP/1.1" 500 119130
+/Users/santiagovasquezfranco/Desktop/order_system/apps/productos/admin.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/apps/productos/admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/productos/productos/ HTTP/1.1" 200 13416
+"POST /admin/productos/productos/ HTTP/1.1" 302 0
+"GET /admin/productos/productos/ HTTP/1.1" 200 13562
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 16298
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/santiagovasquezfranco/Desktop/order_system/apps/productos/models.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2309
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4170
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+"GET /static/admin/css/login.css HTTP/1.1" 200 951
+"GET /static/admin/css/base.css HTTP/1.1" 200 22120
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2360
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 14342
+"GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+"GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+"GET /admin/productos/productos/ HTTP/1.1" 200 13416
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+"POST /admin/productos/productos/ HTTP/1.1" 302 0
+"GET /admin/productos/productos/ HTTP/1.1" 200 13562
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 14369
+"GET /static/admin/img/search.svg HTTP/1.1" 200 458
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+"GET /admin/auth/group/ HTTP/1.1" 200 11508
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 17428
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+"GET /admin/productos/productos/ HTTP/1.1" 200 13416
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/productos/productos/ HTTP/1.1" 302 0
+"GET /admin/productos/productos/ HTTP/1.1" 200 13568
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 14369
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/ HTTP/1.1" 200 13416
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/productos/productos/ HTTP/1.1" 302 0
+"GET /admin/productos/productos/ HTTP/1.1" 200 13562
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 14369
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 19664
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/ HTTP/1.1" 200 13416
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/productos/productos/ HTTP/1.1" 302 0
+"GET /admin/productos/productos/ HTTP/1.1" 200 13562
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 20799
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/8/change/ HTTP/1.1" 200 18743
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+"GET /static/admin/js/calendar.js HTTP/1.1" 200 9141
+"GET /static/admin/css/forms.css HTTP/1.1" 200 8525
+"GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+"GET /static/admin/css/widgets.css HTTP/1.1" 200 11991
+"GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+"GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+/Users/santiagovasquezfranco/Desktop/order_system/apps/productos/models.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/productos/productos/ HTTP/1.1" 200 13416
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/productos/productos/ HTTP/1.1" 302 0
+"GET /admin/productos/productos/ HTTP/1.1" 200 13562
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 21931
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/ HTTP/1.1" 200 13416
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 14369
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/ HTTP/1.1" 200 13416
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/productos/productos/ HTTP/1.1" 302 0
+"GET /admin/productos/productos/ HTTP/1.1" 200 13562
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 14369
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/ HTTP/1.1" 200 13416
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/2/change/ HTTP/1.1" 200 29569
+"GET /static/admin/js/inlines.js HTTP/1.1" 200 15628
+"GET /static/admin/js/vendor/select2/i18n/en.js HTTP/1.1" 200 844
+"GET /static/admin/css/vendor/select2/select2.css HTTP/1.1" 200 17358
+"GET /static/admin/css/autocomplete.css HTTP/1.1" 200 9185
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/autocomplete.js HTTP/1.1" 200 1060
+"GET /static/admin/js/vendor/select2/select2.full.js HTTP/1.1" 200 173566
+"GET /static/admin/img/inline-delete.svg HTTP/1.1" 200 537
+/Users/santiagovasquezfranco/Desktop/order_system/apps/productos/models.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/productos/productos/ HTTP/1.1" 200 13416
+"GET /admin/productos/productos/ HTTP/1.1" 200 13416
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/productos/productos/ HTTP/1.1" 302 0
+"GET /admin/productos/productos/ HTTP/1.1" 200 13562
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 14369
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/ HTTP/1.1" 200 13416
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/productos/productos/ HTTP/1.1" 302 0
+"GET /admin/productos/productos/ HTTP/1.1" 200 13562
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 14369
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/2/change/ HTTP/1.1" 200 14131
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/ HTTP/1.1" 200 13416
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/2/change/ HTTP/1.1" 200 29569
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/ HTTP/1.1" 200 13416
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/productos/productos/ HTTP/1.1" 200 11836
+"GET /static/admin/js/cancel.js HTTP/1.1" 200 884
+"POST /admin/productos/productos/ HTTP/1.1" 302 0
+"GET /admin/productos/productos/ HTTP/1.1" 200 11343
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 14369
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/inventario/insumo/ HTTP/1.1" 200 14764
+"POST /admin/inventario/insumo/ HTTP/1.1" 302 0
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 11648
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 13046
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/ HTTP/1.1" 200 11203
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/add/ HTTP/1.1" 200 26432
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/add/?_to_field=id&_popup=1 HTTP/1.1" 200 6284
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/inventario/insumo/add/?_to_field=id&_popup=1 HTTP/1.1" 200 340
+"GET /static/admin/js/popup_response.js HTTP/1.1" 200 532
+"GET /admin/autocomplete/?app_label=productos&model_name=productoinsumo&field_name=insumo HTTP/1.1" 200 89
+"GET /admin/inventario/insumo/add/?_to_field=id&_popup=1 HTTP/1.1" 200 6284
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/inventario/insumo/add/?_to_field=id&_popup=1 HTTP/1.1" 200 365
+"POST /admin/productos/productos/add/ HTTP/1.1" 302 0
+"GET /admin/productos/productos/ HTTP/1.1" 200 13200
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 13973
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/ HTTP/1.1" 200 12986
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/productos/productos/ HTTP/1.1" 302 0
+"GET /admin/productos/productos/ HTTP/1.1" 200 13128
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 13971
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/5/change/ HTTP/1.1" 200 14237
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/santiagovasquezfranco/Desktop/order_system/apps/productos/models.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/productos/productos/ HTTP/1.1" 200 12986
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/productos/productos/ HTTP/1.1" 302 0
+"GET /admin/productos/productos/ HTTP/1.1" 200 13128
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/santiagovasquezfranco/Desktop/order_system/apps/productos/admin.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /admin/productos/productos/ HTTP/1.1" 302 0
+"GET /admin/productos/productos/ HTTP/1.1" 200 13191
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 13971
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/ HTTP/1.1" 200 12986
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/productos/productos/ HTTP/1.1" 302 0
+"GET /admin/productos/productos/ HTTP/1.1" 200 13191
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 13971
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 19026
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/santiagovasquezfranco/Desktop/order_system/apps/inventario/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/apps/inventario/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/apps/inventario/admin.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/apps/inventario/admin.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/apps/inventario/admin.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/apps/inventario/admin.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/apps/inventario/admin.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/apps/inventario/admin.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/apps/inventario/admin.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/apps/inventario/admin.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/apps/inventario/admin.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/apps/inventario/admin.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2309
+"GET /admin/productos/productos/ HTTP/1.1" 200 13414
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+Internal Server Error: /admin/inventario/venta/
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/sqlite3/base.py", line 360, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: inventario_venta
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/options.py", line 719, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/sites.py", line 246, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/options.py", line 2024, in changelist_view
+    cl = self.get_changelist_instance(request)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/options.py", line 867, in get_changelist_instance
+    return ChangeList(
+           ^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/views/main.py", line 146, in __init__
+    self.get_results(request)
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/views/main.py", line 313, in get_results
+    result_count = paginator.count
+                   ^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/core/paginator.py", line 110, in count
+    return c()
+           ^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/models/query.py", line 604, in count
+    return self.query.get_count(using=self.db)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/models/sql/query.py", line 644, in get_count
+    return obj.get_aggregation(using, {"__count": Count("*")})["__count"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/models/sql/query.py", line 626, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/models/sql/compiler.py", line 1623, in execute_sql
+    cursor.execute(sql, params)
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/sqlite3/base.py", line 360, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: inventario_venta
+"GET /admin/inventario/venta/ HTTP/1.1" 500 191548
+"GET /admin/productos/productos/ HTTP/1.1" 200 13414
+"GET /admin/inventario/venta/ HTTP/1.1" 200 13050
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/venta/add/ HTTP/1.1" 200 20108
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/inventario/venta/add/ HTTP/1.1" 302 0
+"GET /admin/inventario/venta/ HTTP/1.1" 200 15240
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 14399
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/venta/ HTTP/1.1" 200 14987
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/venta/1/change/ HTTP/1.1" 200 20500
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 14399
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/venta/ HTTP/1.1" 200 14987
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/venta/add/ HTTP/1.1" 200 20108
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/inventario/venta/add/ HTTP/1.1" 302 0
+"GET /admin/inventario/venta/ HTTP/1.1" 200 15738
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 14399
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 19454
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/ HTTP/1.1" 200 13414
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/productos/productos/ HTTP/1.1" 302 0
+"GET /admin/productos/productos/ HTTP/1.1" 200 13619
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 20522
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/venta/ HTTP/1.1" 200 15485
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/santiagovasquezfranco/Desktop/order_system/apps/inventario/admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/inventario/venta/ HTTP/1.1" 200 15485
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/venta/add/ HTTP/1.1" 200 20108
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/inventario/venta/add/ HTTP/1.1" 302 0
+"GET /admin/inventario/venta/ HTTP/1.1" 200 16235
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 20522
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/venta/ HTTP/1.1" 200 15982
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 20522
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 13901
+"POST /admin/inventario/actualizacioninventario/ HTTP/1.1" 302 0
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 13630
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/venta/ HTTP/1.1" 200 15982
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/inventario/venta/ HTTP/1.1" 200 12122
+"POST /admin/inventario/venta/ HTTP/1.1" 302 0
+"GET /admin/inventario/venta/ HTTP/1.1" 200 13186
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 14399
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/ HTTP/1.1" 200 13414
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 14399
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/venta/ HTTP/1.1" 200 13050
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/ HTTP/1.1" 200 13414
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 13474
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/venta/ HTTP/1.1" 200 13050
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/venta/add/ HTTP/1.1" 200 20108
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/inventario/venta/add/ HTTP/1.1" 302 0
+"GET /admin/inventario/venta/ HTTP/1.1" 200 15240
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 14399
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 13474
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/santiagovasquezfranco/Desktop/order_system/apps/inventario/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/apps/inventario/admin.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/apps/inventario/admin.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/apps/inventario/admin.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 13918
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+"GET /static/admin/css/base.css HTTP/1.1" 200 22120
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/img/search.svg HTTP/1.1" 200 458
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2360
+Internal Server Error: /admin/ventas/venta/
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/sqlite3/base.py", line 360, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: ventas_venta
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/options.py", line 719, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/sites.py", line 246, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/options.py", line 2024, in changelist_view
+    cl = self.get_changelist_instance(request)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/options.py", line 867, in get_changelist_instance
+    return ChangeList(
+           ^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/views/main.py", line 146, in __init__
+    self.get_results(request)
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/views/main.py", line 313, in get_results
+    result_count = paginator.count
+                   ^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/core/paginator.py", line 110, in count
+    return c()
+           ^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/models/query.py", line 604, in count
+    return self.query.get_count(using=self.db)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/models/sql/query.py", line 644, in get_count
+    return obj.get_aggregation(using, {"__count": Count("*")})["__count"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/models/sql/query.py", line 626, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/models/sql/compiler.py", line 1623, in execute_sql
+    cursor.execute(sql, params)
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/sqlite3/base.py", line 360, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: ventas_venta
+"GET /admin/ventas/venta/ HTTP/1.1" 500 191483
+/Users/santiagovasquezfranco/Desktop/order_system/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/ventas/venta/ HTTP/1.1" 200 13478
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+"GET /static/admin/css/base.css HTTP/1.1" 200 22120
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/img/search.svg HTTP/1.1" 200 458
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2360
+"GET /admin/ventas/venta/ HTTP/1.1" 200 13478
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ventas/venta/add/ HTTP/1.1" 200 20536
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ventas/venta/add/ HTTP/1.1" 302 0
+"GET /admin/ventas/venta/ HTTP/1.1" 200 15663
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 13918
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ventas/venta/ HTTP/1.1" 200 15413
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342

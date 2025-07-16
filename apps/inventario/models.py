@@ -3,12 +3,13 @@ from django.utils import timezone
 from apps.accounts.models import User
 
 # Create your models here.
-class Insumos(models.Model):
+class Insumo(models.Model):
     nombre = models.CharField(max_length=100)
     unidad = models.CharField(max_length=50)
     stock = models.PositiveIntegerField(default=0)
     minimo = models.PositiveIntegerField(default=10)
     
+
     def __str__(self):
         return f'{self.nombre} ({self.unidad}) - Stock: {self.stock}'   
     
@@ -20,8 +21,11 @@ class Insumos(models.Model):
                 raise ValueError(f'Stock insuficiente para realizar la salida de {cantidad} {self.unidad} de {self.nombre}. Stock actual: {self.stock}')
             self.stock -= cantidad
         self.save()
+        
+    class Meta:
+        ordering = ['nombre']
     
-class MovimientoInsumo(models.Model):
+class ActualizacionInventario(models.Model):
     ENTRADA = 'entrada'
     SALIDA = 'salida'
     TIPO_CHOICES = [
@@ -29,9 +33,9 @@ class MovimientoInsumo(models.Model):
         (SALIDA, 'Salida'),
     ]
     
-    insumo = models.ForeignKey(Insumos, on_delete=models.CASCADE, related_name='movimientos')
+    insumo = models.ForeignKey(Insumo, on_delete=models.CASCADE, related_name='movimientos')
     tipo = models.CharField(max_length=10, choices=TIPO_CHOICES)
-    cantidad = models.DecimalField(max_digits=10, decimal_places=2)
+    cantidad = models.IntegerField()
     fecha = models.DateTimeField(default=timezone.now)
     usuario = models.ForeignKey(User, on_delete=models.SET_NULL, null=True, blank=True)
     
@@ -47,3 +51,5 @@ class MovimientoInsumo(models.Model):
         
     def __str__(self):
         return f'{self.tipo.capitalize()} de {self.cantidad} {self.insumo.unidad} de {self.insumo.nombre} el {self.fecha.strftime("%Y-%m-%d %H:%M:%S")}'
+    
+    

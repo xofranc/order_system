@@ -40,7 +40,8 @@ INSTALLED_APPS = [
     # Add any other apps you have created or installed
     'apps.accounts.apps.LoginConfig',
     'apps.inventario.apps.InventarioConfig',
-    'apps.producto.apps.ProductoConfig',
+    'apps.productos.apps.ProductosConfig',
+    'apps.ventas.apps.VentasConfig',
     'rest_framework',
     'drf_spectacular',  # For API documentation
     'django_extensions',
