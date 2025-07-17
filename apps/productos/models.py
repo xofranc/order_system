@@ -21,14 +21,6 @@ class Productos(models.Model):
         for insumo_relacionado in self.insumos.all():
             insumo_relacionado.descontar_insumo(cantidad_producto=cantidad)
 
-    def vender(self, cantidad=1):
-        print(f">>> [DEBUG] Ejecutando vender({cantidad}) para {self.nombre}")
-        try:
-            self.descontar_insumos(cantidad=cantidad)
-            return f'Se vendieron {cantidad} unidades de {self.nombre} y se descontaron los insumos correctamente.'
-        except ValueError as e:
-            return f'Error al vender producto: {str(e)}'
-        
 class ProductoInsumo(models.Model):
     producto = models.ForeignKey(Productos, on_delete=models.CASCADE, related_name='insumos')
     insumo = models.ForeignKey(Insumo, on_delete=models.CASCADE, related_name='productos')

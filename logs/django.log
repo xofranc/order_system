@@ -2255,3 +2255,992 @@ Not Found: /favicon.ico
 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
 "GET /admin/ventas/venta/ HTTP/1.1" 200 15413
 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/santiagovasquezfranco/Desktop/order_system/apps/ventas/admin.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/apps/productos/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/apps/ventas/models.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/ventas/venta/add/ HTTP/1.1" 200 20536
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ventas/venta/add/ HTTP/1.1" 302 0
+"GET /admin/ventas/venta/ HTTP/1.1" 200 16156
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 13918
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 14843
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 13918
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/santiagovasquezfranco/Desktop/order_system/apps/inventario/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/apps/ventas/models.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/ventas/venta/ HTTP/1.1" 200 15907
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ventas/venta/add/ HTTP/1.1" 200 20536
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ventas/venta/add/ HTTP/1.1" 302 0
+"GET /admin/ventas/venta/ HTTP/1.1" 200 16649
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+Internal Server Error: /admin/inventario/actualizacioninventario/
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/sqlite3/base.py", line 360, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such column: inventario_actualizacioninventario.venta_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/options.py", line 719, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/sites.py", line 246, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/options.py", line 2163, in changelist_view
+    "selection_note": _("0 of %(cnt)s selected") % {"cnt": len(cl.result_list)},
+                                                           ^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/models/query.py", line 366, in __len__
+    self._fetch_all()
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/models/query.py", line 1949, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/models/query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/models/sql/compiler.py", line 1623, in execute_sql
+    cursor.execute(sql, params)
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/sqlite3/base.py", line 360, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such column: inventario_actualizacioninventario.venta_id
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 500 177393
+"GET /admin/ventas/venta/ HTTP/1.1" 200 16400
+"POST /admin/ventas/venta/ HTTP/1.1" 200 12539
+"POST /admin/ventas/venta/ HTTP/1.1" 302 0
+"GET /admin/ventas/venta/ HTTP/1.1" 200 13614
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ventas/venta/add/ HTTP/1.1" 200 20536
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ventas/venta/add/ HTTP/1.1" 302 0
+"GET /admin/ventas/venta/ HTTP/1.1" 200 15660
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 13918
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/add/ HTTP/1.1" 200 21164
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 13918
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 16047
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 16047
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/35/change/ HTTP/1.1" 200 21499
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ventas/venta/ HTTP/1.1" 200 15411
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ventas/venta/4/change/ HTTP/1.1" 200 20920
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+Internal Server Error: /admin/ventas/venta/4/change/
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/sqlite3/base.py", line 360, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: NOT NULL constraint failed: ventas_detalleventa.cantidad
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/options.py", line 719, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/sites.py", line 246, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/options.py", line 1987, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/options.py", line 1843, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/options.py", line 1895, in _changeform_view
+    self.save_related(request, form, formsets, not add)
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/options.py", line 1342, in save_related
+    self.save_formset(request, form, formset, change=change)
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/options.py", line 1330, in save_formset
+    formset.save()
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/forms/models.py", line 796, in save
+    return self.save_existing_objects(commit) + self.save_new_objects(commit)
+                                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/forms/models.py", line 959, in save_new_objects
+    self.new_objects.append(self.save_new(form, commit=commit))
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/forms/models.py", line 1157, in save_new
+    return super().save_new(form, commit=commit)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/forms/models.py", line 769, in save_new
+    return form.save(commit=commit)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/forms/models.py", line 554, in save
+    self.instance.save()
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/models/base.py", line 902, in save
+    self.save_base(
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/models/base.py", line 1008, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/models/base.py", line 1169, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/models/base.py", line 1210, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/models/query.py", line 1868, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/models/sql/compiler.py", line 1882, in execute_sql
+    cursor.execute(sql, params)
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/db/backends/sqlite3/base.py", line 360, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.IntegrityError: NOT NULL constraint failed: ventas_detalleventa.cantidad
+"POST /admin/ventas/venta/4/change/ HTTP/1.1" 500 229804
+"GET /admin/ventas/venta/4/change/ HTTP/1.1" 200 20920
+"GET /admin/ventas/venta/ HTTP/1.1" 200 15411
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 14843
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ventas/venta/ HTTP/1.1" 200 15411
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ventas/venta/add/ HTTP/1.1" 200 20536
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ventas/venta/add/ HTTP/1.1" 302 0
+"GET /admin/ventas/venta/ HTTP/1.1" 200 16153
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 16047
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 16047
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 17124
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/36/change/ HTTP/1.1" 200 21589
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/ HTTP/1.1" 200 13858
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/ HTTP/1.1" 200 13858
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2360
+Watching for file changes with StatReloader
+"GET /admin/productos/productos/ HTTP/1.1" 200 13858
+"GET /static/admin/css/base.css HTTP/1.1" 200 22120
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2360
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 17124
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ventas/venta/ HTTP/1.1" 200 15904
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ventas/venta/add/ HTTP/1.1" 200 20536
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ventas/venta/add/ HTTP/1.1" 302 0
+"GET /admin/ventas/venta/ HTTP/1.1" 200 16647
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 17124
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/santiagovasquezfranco/Desktop/order_system/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 17113
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2360
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 17113
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ventas/venta/ HTTP/1.1" 200 16386
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+Watching for file changes with StatReloader
+"GET /admin/ventas/venta/ HTTP/1.1" 200 17485
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+"GET /static/admin/css/base.css HTTP/1.1" 200 22120
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/img/search.svg HTTP/1.1" 200 458
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2360
+"POST /admin/ventas/venta/ HTTP/1.1" 200 12543
+"POST /admin/ventas/venta/ HTTP/1.1" 302 0
+"GET /admin/ventas/venta/ HTTP/1.1" 200 14702
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ventas/venta/add/ HTTP/1.1" 200 19172
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ventas/venta/add/ HTTP/1.1" 302 0
+"GET /admin/ventas/venta/ HTTP/1.1" 200 16748
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 17113
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/santiagovasquezfranco/Desktop/order_system/apps/ventas/admin.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /admin/ventas/venta/
+"GET /admin/ventas/venta/ HTTP/1.1" 404 6528
+/Users/santiagovasquezfranco/Desktop/order_system/apps/ventas/admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/ventas/venta/ HTTP/1.1" 200 13973
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+"GET /static/admin/css/base.css HTTP/1.1" 200 22120
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2360
+"GET /admin/ventas/venta/add/ HTTP/1.1" 200 23159
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ventas/venta/add/ HTTP/1.1" 302 0
+"GET /admin/ventas/venta/ HTTP/1.1" 200 14716
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 17113
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ventas/venta/ HTTP/1.1" 200 14467
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ventas/venta/add/ HTTP/1.1" 200 23159
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ventas/venta/add/ HTTP/1.1" 302 0
+"GET /admin/ventas/venta/ HTTP/1.1" 200 15209
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 17113
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 14848
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/santiagovasquezfranco/Desktop/order_system/apps/ventas/models.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/ventas/venta/ HTTP/1.1" 200 14960
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ventas/venta/add/ HTTP/1.1" 200 23159
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ventas/venta/add/ HTTP/1.1" 302 0
+"GET /admin/ventas/venta/ HTTP/1.1" 200 15705
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 18244
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 14848
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/4/change/ HTTP/1.1" 200 15008
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ventas/venta/ HTTP/1.1" 200 15455
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ventas/venta/7/change/ HTTP/1.1" 200 23553
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/santiagovasquezfranco/Desktop/order_system/apps/ventas/admin.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/apps/ventas/admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/ventas/venta/7/change/ HTTP/1.1" 200 17522
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+"GET /static/admin/css/forms.css HTTP/1.1" 200 8525
+"GET /static/admin/css/base.css HTTP/1.1" 200 22120
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/css/widgets.css HTTP/1.1" 200 11991
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+"GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+"GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2360
+"GET /admin/productos/productos/ HTTP/1.1" 200 13863
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/3/change/ HTTP/1.1" 200 30419
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/santiagovasquezfranco/Desktop/order_system/apps/ventas/admin.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/apps/ventas/admin.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/apps/ventas/admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/ventas/venta/ HTTP/1.1" 200 15455
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ventas/venta/ HTTP/1.1" 200 15455
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+"GET /static/admin/css/base.css HTTP/1.1" 200 22120
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2360
+"GET /admin/ventas/venta/9/change/ HTTP/1.1" 200 15404
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/ HTTP/1.1" 200 13863
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ventas/venta/ HTTP/1.1" 200 15455
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ventas/venta/add/ HTTP/1.1" 200 14873
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/santiagovasquezfranco/Desktop/order_system/apps/ventas/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/apps/ventas/admin.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/apps/ventas/admin.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/apps/ventas/admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/ventas/venta/add/ HTTP/1.1" 200 14873
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ventas/venta/ HTTP/1.1" 200 15455
+"GET /admin/ventas/venta/add/ HTTP/1.1" 200 14873
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/ HTTP/1.1" 200 13863
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ventas/venta/ HTTP/1.1" 200 15455
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/santiagovasquezfranco/Desktop/order_system/apps/ventas/admin.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/apps/inventario/models.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/ventas/venta/add/ HTTP/1.1" 200 17697
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/ HTTP/1.1" 200 13863
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 14848
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/add/ HTTP/1.1" 200 14733
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/inventario/insumo/add/ HTTP/1.1" 302 0
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 15470
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/ HTTP/1.1" 200 13863
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/add/ HTTP/1.1" 200 27309
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/autocomplete/?app_label=productos&model_name=productoinsumo&field_name=insumo HTTP/1.1" 200 215
+"GET /admin/autocomplete/?term=&app_label=productos&model_name=productoinsumo&field_name=insumo HTTP/1.1" 200 215
+"GET /admin/autocomplete/?app_label=productos&model_name=productoinsumo&field_name=insumo HTTP/1.1" 200 215
+"POST /admin/productos/productos/add/ HTTP/1.1" 302 0
+"GET /admin/productos/productos/ HTTP/1.1" 200 14509
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ventas/venta/ HTTP/1.1" 200 15455
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ventas/venta/add/ HTTP/1.1" 200 17751
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+Internal Server Error: /admin/ventas/venta/add/
+Traceback (most recent call last):
+  File "/Users/santiagovasquezfranco/Desktop/order_system/apps/ventas/models.py", line 21, in save
+    self.registrar_venta()
+  File "/Users/santiagovasquezfranco/Desktop/order_system/apps/ventas/models.py", line 31, in registrar_venta
+    raise ValueError(
+ValueError: No hay suficiente stock de bondiola. Se requieren 6.00 150 gramos, pero solo hay 1.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/options.py", line 719, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/sites.py", line 246, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/options.py", line 1984, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/options.py", line 1843, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/options.py", line 1894, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/options.py", line 1314, in save_model
+    obj.save()
+  File "/Users/santiagovasquezfranco/Desktop/order_system/apps/ventas/models.py", line 23, in save
+    raise ValidationError(str(e))
+django.core.exceptions.ValidationError: ['No hay suficiente stock de bondiola. Se requieren 6.00 150 gramos, pero solo hay 1.']
+"POST /admin/ventas/venta/add/ HTTP/1.1" 500 135912
+"GET /admin/ventas/venta/add/ HTTP/1.1" 200 17751
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 15242
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/ HTTP/1.1" 200 14285
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/4/change/ HTTP/1.1" 200 30455
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/productos/productos/4/change/ HTTP/1.1" 302 0
+"GET /admin/productos/productos/ HTTP/1.1" 200 14511
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ventas/venta/ HTTP/1.1" 200 15455
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ventas/venta/add/ HTTP/1.1" 200 17751
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+Internal Server Error: /admin/ventas/venta/add/
+Traceback (most recent call last):
+  File "/Users/santiagovasquezfranco/Desktop/order_system/apps/ventas/models.py", line 21, in save
+    self.registrar_venta()
+  File "/Users/santiagovasquezfranco/Desktop/order_system/apps/ventas/models.py", line 31, in registrar_venta
+    raise ValueError(
+ValueError: No hay suficiente stock de bondiola. Se requieren 2.00 150 gramos, pero solo hay 1.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/options.py", line 719, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/sites.py", line 246, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/options.py", line 1984, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/utils/decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/options.py", line 1843, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/options.py", line 1894, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "/opt/anaconda3/lib/python3.12/site-packages/django/contrib/admin/options.py", line 1314, in save_model
+    obj.save()
+  File "/Users/santiagovasquezfranco/Desktop/order_system/apps/ventas/models.py", line 23, in save
+    raise ValidationError(str(e))
+django.core.exceptions.ValidationError: ['No hay suficiente stock de bondiola. Se requieren 2.00 150 gramos, pero solo hay 1.']
+"POST /admin/ventas/venta/add/ HTTP/1.1" 500 135912
+"GET /admin/ventas/venta/add/ HTTP/1.1" 200 17751
+/Users/santiagovasquezfranco/Desktop/order_system/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/ventas/venta/add/ HTTP/1.1" 200 17751
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2360
+"GET /admin/productos/productos/ HTTP/1.1" 200 14285
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/add/ HTTP/1.1" 200 27309
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/add/?_to_field=id&_popup=1 HTTP/1.1" 200 6289
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/inventario/insumo/add/?_to_field=id&_popup=1 HTTP/1.1" 200 357
+"GET /admin/autocomplete/?app_label=productos&model_name=productoinsumo&field_name=insumo HTTP/1.1" 200 277
+"GET /admin/inventario/insumo/add/?_to_field=id&_popup=1 HTTP/1.1" 200 6289
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/inventario/insumo/add/?_to_field=id&_popup=1 HTTP/1.1" 200 356
+"GET /admin/inventario/insumo/add/?_to_field=id&_popup=1 HTTP/1.1" 200 6289
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/inventario/insumo/add/?_to_field=id&_popup=1 HTTP/1.1" 200 355
+"POST /admin/productos/productos/add/ HTTP/1.1" 302 0
+"GET /admin/productos/productos/ HTTP/1.1" 200 14891
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ventas/venta/ HTTP/1.1" 200 15455
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ventas/venta/add/ HTTP/1.1" 200 17792
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/ventas/venta/add/ HTTP/1.1" 302 0
+"GET /admin/ventas/venta/ HTTP/1.1" 200 16191
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 20499
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 16444
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/ HTTP/1.1" 200 14680
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ventas/venta/ HTTP/1.1" 200 15944
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 16444
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/santiagovasquezfranco/Desktop/order_system/apps/ventas/admin.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/apps/ventas/admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/inventario/insumo/ HTTP/1.1" 200 15572
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/ HTTP/1.1" 200 13808
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/5/change/ HTTP/1.1" 200 34499
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/productos/productos/ HTTP/1.1" 200 13808
+"GET /admin/productos/productos/add/ HTTP/1.1" 200 26437
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/santiagovasquezfranco/Desktop/order_system/apps/ventas/admin.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /admin/productos/productos/ HTTP/1.1" 200 14680
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ventas/venta/ HTTP/1.1" 200 16003
+"GET /static/ventas/js/admin_insumos.js HTTP/1.1" 404 1892
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ventas/venta/add/ HTTP/1.1" 200 17851
+"GET /static/ventas/js/admin_insumos.js HTTP/1.1" 404 1892
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/santiagovasquezfranco/Desktop/order_system/apps/ventas/admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/auth/group/ HTTP/1.1" 200 12385
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ventas/venta/ HTTP/1.1" 200 15996
+"GET /static/js/admin_insumos.js HTTP/1.1" 200 1578
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ventas/venta/add/ HTTP/1.1" 200 17844
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+Not Found: /admin/api/insumos-producto/3/
+"GET /admin/api/insumos-producto/3/ HTTP/1.1" 404 6817
+Not Found: /admin/api/insumos-producto/5/
+"GET /admin/api/insumos-producto/5/ HTTP/1.1" 404 6817
+Not Found: /admin/api/insumos-producto/4/
+"GET /admin/api/insumos-producto/4/ HTTP/1.1" 404 6817
+Not Found: /admin/api/insumos-producto/3/
+"GET /admin/api/insumos-producto/3/ HTTP/1.1" 404 6817
+"GET /admin/ventas/venta/add/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ventas/venta/add/ HTTP/1.1" 200 4209
+"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+"GET /static/admin/css/base.css HTTP/1.1" 304 0
+"GET /static/admin/css/login.css HTTP/1.1" 304 0
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+"GET /static/admin/js/theme.js HTTP/1.1" 304 0
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2360
+"POST /admin/login/?next=/admin/ventas/venta/add/ HTTP/1.1" 302 0
+"GET /admin/ventas/venta/add/ HTTP/1.1" 200 17844
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+"GET /static/admin/js/core.js HTTP/1.1" 304 0
+"GET /static/admin/css/forms.css HTTP/1.1" 304 0
+"GET /static/js/admin_insumos.js HTTP/1.1" 200 1578
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+"GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+"GET /static/admin/js/actions.js HTTP/1.1" 304 0
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+"GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+"GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+Not Found: /admin/api/insumos-producto/3/
+"GET /admin/api/insumos-producto/3/ HTTP/1.1" 404 6817
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 2471
+/Users/santiagovasquezfranco/Desktop/order_system/config/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/apps/ventas/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/ventas/venta/ HTTP/1.1" 200 15996
+"GET /static/js/admin_insumos.js HTTP/1.1" 304 0
+"GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 2786
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/filters.js HTTP/1.1" 304 0
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+"GET /admin/ventas/venta/add/ HTTP/1.1" 200 17844
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 2786
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+Not Found: /admin/api/insumos-producto/3/
+"GET /admin/api/insumos-producto/3/ HTTP/1.1" 404 6817
+/Users/santiagovasquezfranco/Desktop/order_system/apps/ventas/urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/api/insumos-producto/1/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/api/insumos-producto/1/ HTTP/1.1" 200 4221
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/css/login.css HTTP/1.1" 200 951
+"GET /static/admin/css/base.css HTTP/1.1" 200 22120
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2675
+"GET /admin/ventas/venta/add/ HTTP/1.1" 200 17844
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 2786
+"GET /static/js/admin_insumos.js HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/authtoken/tokenproxy/ HTTP/1.1" 200 13486
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 2786
+"GET /static/admin/img/search.svg HTTP/1.1" 304 0
+"GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+"GET /admin/accounts/user/ HTTP/1.1" 200 20141
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 2786
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+"POST /admin/login/?next=/admin/api/insumos-producto/1/ HTTP/1.1" 200 4396
+"POST /admin/login/?next=/admin/api/insumos-producto/1/ HTTP/1.1" 302 0
+Not Found: /admin/api/insumos-producto/1/
+"GET /admin/api/insumos-producto/1/ HTTP/1.1" 404 6817
+Not Found: /admin/api/insumos-producto/1/
+"GET /admin/api/insumos-producto/1/ HTTP/1.1" 404 6817
+/Users/santiagovasquezfranco/Desktop/order_system/apps/ventas/urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/admin/insumos-producto/1/ HTTP/1.1" 200 15
+"GET /api/admin/insumos-producto/2/ HTTP/1.1" 200 15
+"GET /api/admin/insumos-producto/4/ HTTP/1.1" 200 96
+"GET /admin/ventas/venta/ HTTP/1.1" 200 15996
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 2786
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/js/admin_insumos.js HTTP/1.1" 200 1578
+"GET /admin/ventas/venta/add/ HTTP/1.1" 200 17844
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 2786
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /api/admin/insumos-producto/3/ HTTP/1.1" 200 107
+"GET /api/admin/insumos-producto/4/ HTTP/1.1" 200 96
+"GET /api/admin/insumos-producto/5/ HTTP/1.1" 200 194
+"GET /admin/ventas/venta/add/ HTTP/1.1" 200 17844
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 2786
+"GET /static/js/admin_insumos.js HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /api/admin/insumos-producto/3/ HTTP/1.1" 200 107
+"GET /api/admin/insumos-producto/4/ HTTP/1.1" 200 96
+"GET /api/admin/insumos-producto/5/ HTTP/1.1" 200 194
+/Users/santiagovasquezfranco/Desktop/order_system/apps/ventas/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/apps/ventas/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/apps/ventas/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/ventas/venta/add/ HTTP/1.1" 200 17844
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 2786
+"GET /static/js/admin_insumos.js HTTP/1.1" 200 1590
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /api/admin/insumos-producto/3/ HTTP/1.1" 200 146
+/Users/santiagovasquezfranco/Desktop/order_system/apps/ventas/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/santiagovasquezfranco/Desktop/order_system/apps/ventas/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/ventas/venta/add/ HTTP/1.1" 200 17844
+"GET /static/js/admin_insumos.js HTTP/1.1" 304 0
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 2786
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /api/admin/insumos-producto/4/ HTTP/1.1" 200 95
+"GET /api/admin/insumos-producto/5/ HTTP/1.1" 200 197
+"GET /admin/ventas/venta/add/ HTTP/1.1" 200 17844
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 2786
+"GET /static/js/admin_insumos.js HTTP/1.1" 200 1577
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /api/admin/insumos-producto/4/ HTTP/1.1" 200 95
+/Users/santiagovasquezfranco/Desktop/order_system/apps/ventas/admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/ventas/venta/add/ HTTP/1.1" 200 17837
+"GET /static/js/admin_insumos.js HTTP/1.1" 304 0
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 2786
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /api/admin/insumos-producto/4/ HTTP/1.1" 200 95
+/Users/santiagovasquezfranco/Desktop/order_system/apps/ventas/admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/ventas/venta/add/ HTTP/1.1" 200 17295
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 2786
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/css/forms.css HTTP/1.1" 200 8525
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+"GET /static/js/admin_insumos.js HTTP/1.1" 200 1577
+"GET /static/admin/css/base.css HTTP/1.1" 200 22120
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/css/widgets.css HTTP/1.1" 200 11991
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+"GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+"GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2675
+"GET /api/admin/insumos-producto/4/ HTTP/1.1" 200 95
+/Users/santiagovasquezfranco/Desktop/order_system/apps/ventas/admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/ventas/venta/add/ HTTP/1.1" 200 17837
+"GET /static/js/admin_insumos.js HTTP/1.1" 304 0
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 2786
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ventas/venta/add/ HTTP/1.1" 200 17837
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 2786
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/santiagovasquezfranco/Desktop/order_system/apps/ventas/admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/ventas/venta/add/ HTTP/1.1" 200 17295
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 2786
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/santiagovasquezfranco/Desktop/order_system/apps/ventas/admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/ventas/venta/add/ HTTP/1.1" 200 14716
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/css/forms.css HTTP/1.1" 200 8525
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 2786
+- Broken pipe from ('127.0.0.1', 56953)
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/css/base.css HTTP/1.1" 200 22120
+"GET /static/js/admin_insumos.js HTTP/1.1" 200 1577
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/css/widgets.css HTTP/1.1" 200 11991
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+"GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2675
+"GET /api/admin/insumos-producto/3/ HTTP/1.1" 200 104
+Watching for file changes with StatReloader
+Not Found: /productos/
+"GET /productos/ HTTP/1.1" 404 2672
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2675
+"GET /admin/ HTTP/1.1" 200 15515
+"GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+"GET /admin/ventas/venta/ HTTP/1.1" 200 15996
+"GET /static/js/admin_insumos.js HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventario/actualizacioninventario/ HTTP/1.1" 200 20499
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ventas/venta/ HTTP/1.1" 200 15996
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ventas/venta/11/change/ HTTP/1.1" 200 15083
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /api/admin/insumos-producto/5/ HTTP/1.1" 200 197
+/Users/santiagovasquezfranco/Desktop/order_system/apps/ventas/admin.py changed, reloading.
+Watching for file changes with StatReloader

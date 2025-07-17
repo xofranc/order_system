@@ -38,6 +38,7 @@ class ActualizacionInventario(models.Model):
     cantidad = models.IntegerField()
     fecha = models.DateTimeField(default=timezone.now)
     usuario = models.ForeignKey(User, on_delete=models.SET_NULL, null=True, blank=True)
+    venta = models.ForeignKey('ventas.Venta', on_delete=models.SET_NULL, null=True, blank=True, related_name='movimientos')
     
     def save(self, *args, **kwargs):
         if self.tipo == self.ENTRADA:
@@ -51,5 +52,3 @@ class ActualizacionInventario(models.Model):
         
     def __str__(self):
         return f'{self.tipo.capitalize()} de {self.cantidad} {self.insumo.unidad} de {self.insumo.nombre} el {self.fecha.strftime("%Y-%m-%d %H:%M:%S")}'
-    
-    

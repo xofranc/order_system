@@ -1,22 +1,28 @@
 from django.contrib import admin
-from .models import Venta, DetalleVenta
+from .models import Venta  # 👈 asegúrate de importar correctamente el modelo
 
-# Register your models here.
-class DetalleVentaInline(admin.TabularInline):
-    model = DetalleVenta
-    extra = 0
-    readonly_fields = ( 'cantidad', )    
-@admin.register(Venta)
+
 class VentaAdmin(admin.ModelAdmin):
     list_display = ('producto', 'cantidad', 'fecha', 'usuario')
-    list_filter = ('fecha',)
-    search_fields = ('producto__nombre', 'usuario__username')
-    inlines = [DetalleVentaInline]
+    exclude = ('fecha', 'usuario')
     
-    def vender_producto(self, request, queryset):
-        for venta in queryset:
-            try:
-                venta.producto.vender(venta.cantidad)
-                self.message_user(request, f"Venta de {venta.cantidad} unidades de {venta.producto.nombre} registrada correctamente.")
-            except ValueError as e:
-                self.message_user(request, str(e), level='error')
+
+    class Media:
+        js = ('js/admin_insumos.js',)
+
+    def save_model(self, request, obj, form, change):
+        if not obj.pk:
+            obj.usuario = request.user
+        super().save_model(request, obj, form, change)
+
+    def ver_insumos(self, obj):
+        detalles = obj.detalles.all()
+        if not detalles:
+            return "—"
+        return "\n".join(
+            [f"{d.cantidad} {d.insumo.unidad} de {d.insumo.nombre}" for d in detalles]
+        )
+   
+
+
+admin.site.register(Venta, VentaAdmin)
