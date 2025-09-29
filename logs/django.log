@@ -3244,3 +3244,7 @@ Not Found: /favicon.ico
 "GET /api/admin/insumos-producto/5/ HTTP/1.1" 200 197
 /Users/santiagovasquezfranco/Desktop/order_system/apps/ventas/admin.py changed, reloading.
 Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/app/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader

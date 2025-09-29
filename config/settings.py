@@ -43,7 +43,6 @@ INSTALLED_APPS = [
     'apps.ventas.apps.VentasConfig',
     'rest_framework',
     'drf_spectacular',  # For API documentation
-    'django_extensions',
     'rest_framework.authtoken',  # For token authentication
     
 ]
